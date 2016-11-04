@@ -3,3 +3,13 @@
 ################################################################################
 
 /AngularStarter/src/AngularStarter/bin/Debug/netcoreapp1.0
+/AngularStarter/src/AngularStarter/node_modules
+/AngularStarter/src/AngularStarter/obj/Debug/netcoreapp1.0
+/AngularStarter/src/AngularStarter/project.lock.json
+/AngularStarter/.vs/AngularStarter/v14/.suo
+/AngularStarter/src/AngularStarter/app/app
+/AngularStarter/src/AngularStarter/app/node_modules/@angular
+/AngularStarter/src/AngularStarter/dist
+/AngularStarter/src/AngularStarter/typings
+/AngularStarter/src/AngularStarter/obj/Debug
+/AngularStarter/src/AngularStarter/wwwroot/scripts
